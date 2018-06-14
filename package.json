@@ -1,0 +1,19 @@
+{
+  "name": "knnow",
+  "version": "1.0.0",
+  "description": "An app that helps you choose which ride share to use if any.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayander/knnow.git"
+  },
+  "author": "Anderson Day & Jacob Craffey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dayander/knnow/issues"
+  },
+  "homepage": "https://github.com/dayander/knnow#readme"
+}
